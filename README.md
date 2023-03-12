@@ -1,5 +1,3 @@
-# NG_ASPNET_App
-
 ## Create ASP.NET Core app with Angular in Visual Studio
 
 [Create an ASP.NET Core app with Angular in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/javascript/tutorial-asp-net-core-with-angular?view=vs-2022)
